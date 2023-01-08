@@ -1,0 +1,11 @@
+//Declaring
+
+Int x;
+
+//Intitializing
+
+x= 10;
+
+//Declaring and intializing
+
+Int x =10; 
